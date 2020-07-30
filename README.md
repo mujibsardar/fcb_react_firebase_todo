@@ -1,5 +1,9 @@
 Added firebase! 
 
+Requires a .env file that looks something like this
+
+REACT_APP_FIREBASE_API_KEY=[KEY HERE, NO QUOTES OR BRACKETS]
+
 # React Todo App
 
 This is a sample react todo app done step-by-step.
