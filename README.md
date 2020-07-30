@@ -4,6 +4,15 @@ Requires a .env file that looks something like this
 
 REACT_APP_FIREBASE_API_KEY=[KEY HERE, NO QUOTES OR BRACKETS]
 
+
+Other Helpful Links:
+
+Tutoring: https://avantutor.com
+
+Coding Q&A: https://askavan.com
+
+Free Coding Bootcamp: https://freecodingbootcamp.org
+
 # React Todo App
 
 This is a sample react todo app done step-by-step.
